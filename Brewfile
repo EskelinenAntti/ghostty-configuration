@@ -1,2 +1,4 @@
 brew "stow"
-cask "ghostty"
+if OS.mac?
+  cask "ghostty"
+end
