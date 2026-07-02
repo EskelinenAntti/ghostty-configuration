@@ -1,8 +1,6 @@
-.PHONY=all dependencies configuration
+.PHONY=all dependencies
 
-all: dependencies configuration
+all: dependencies
 
 dependencies:
 	brew bundle
-configuration:
-	stow . --target="${HOME}"
