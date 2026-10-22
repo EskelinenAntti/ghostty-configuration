@@ -1,0 +1,4 @@
+theme = Kanso Zen
+
+keybind = ctrl+alt+shift+super+space=text:\x02
+
