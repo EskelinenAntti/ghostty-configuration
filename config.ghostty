@@ -1,5 +1,3 @@
 theme = Kanso Zen
-
-keybind = ctrl+alt+shift+super+space=text:\x02
 config-file = ?~/.config/ghostty/omarchy-theme.ghostty
 
