@@ -1,3 +1,13 @@
 theme = Kanso Zen
 config-file = ?~/.config/ghostty/omarchy-theme.ghostty
 
+# Send explicit Cmd+1–9 keyboard events to Herdr for tab switching.
+keybind = cmd+digit_1=csi:49;9u
+keybind = cmd+digit_2=csi:50;9u
+keybind = cmd+digit_3=csi:51;9u
+keybind = cmd+digit_4=csi:52;9u
+keybind = cmd+digit_5=csi:53;9u
+keybind = cmd+digit_6=csi:54;9u
+keybind = cmd+digit_7=csi:55;9u
+keybind = cmd+digit_8=csi:56;9u
+keybind = cmd+digit_9=csi:57;9u
