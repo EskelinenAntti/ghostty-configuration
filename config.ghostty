@@ -1,4 +1,5 @@
-theme = TokyoNight
+theme = Kanagawa Dragon
 command = /opt/homebrew/bin/herdr
 confirm-close-surface = false
+macos-icon = xray
 config-file = ?~/.config/ghostty/remote-theme.ghostty
