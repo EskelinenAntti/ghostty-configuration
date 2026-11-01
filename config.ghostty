@@ -2,4 +2,5 @@ theme = Kanagawa Dragon
 command = /opt/homebrew/bin/herdr
 confirm-close-surface = false
 macos-icon = xray
+title = " "
 config-file = ?~/.config/ghostty/remote-theme.ghostty
